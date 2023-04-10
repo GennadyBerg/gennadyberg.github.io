@@ -1,0 +1,7 @@
+.reserve-button {
+  width: 100%;
+  background-color: var(--bs-border-color-translucent);
+  border: solid 3px wheat;
+  border-radius: 30px;
+}
+
